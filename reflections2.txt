@@ -29,3 +29,9 @@ What is the result of merging two branches together? Why do we represent it in t
 	
 	They become one with the changes from both incorporated. The git log --graph shows the commit log indented so we can clearly see at what point the master tree was branched and what changes have since been made by the branch as well as the master.
 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Time savings. It could take a long time for one developer to analyse all the commits from another branch to find conflicts themselves. Automatic merging takes this load off the developer.
+	Is it possible that an automatic merge may misinterpret a conflict?
+
