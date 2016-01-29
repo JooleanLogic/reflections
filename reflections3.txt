@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  When you have several people working on the same project.
+  If you commute between various locations and can use the cloud for synching
+  For backup of data in an online repository.
+
